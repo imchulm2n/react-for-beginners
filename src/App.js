@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import Detail from "src/routes/Detail.js";
-import Home from "src/routes/Home.js";
+import Detail from ".Detail.js";
+import Home from ".Home.js";
 
 function App() {
   return (
